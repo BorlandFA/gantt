@@ -10,8 +10,8 @@ const SECOND = 'second';
 const MILLISECOND = 'millisecond';
 
 const month_names = [
-    'January',
-    'February',
+    'Gener',
+    'Febrer',
     'March',
     'April',
     'May',
